@@ -1,0 +1,17 @@
+{
+  "name": "idesune-reporter",
+  "version": "1.0.0",
+  "description": "Idesune reporter library with plugins for Karma and Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thai Pangsakulyanont @ Taskworld <thai.p@taskworld.com>",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io-client": "^1.4.6"
+  },
+  "devDependencies": {
+    "standard": "^7.0.1"
+  }
+}
